@@ -124,9 +124,7 @@ I'm open to collaborating on interesting projects and exploring new opportunitie
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+
 
 <p align="center">
   From <a href="https://github.com/SamarthSRao">Samarth S Rao</a>
