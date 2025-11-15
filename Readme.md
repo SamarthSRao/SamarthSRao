@@ -59,13 +59,13 @@ I'm a passionate developer focused on creating production-ready applications wit
 
 ### Featured Projects
 
-#### [HN-Style Tech Blog](https://github.com/yourusername/hn-tech-blog)
+#### [HN-Style Tech Blog](https://github.com/SamarthSRao/news-)
 A production-ready tech blog platform inspired by Hacker News
 - **Tech:** Go, Gin, PostgreSQL, React, Tailwind CSS, Docker
 - **Features:** User authentication, nested comments, voting system, karma tracking
 - **Highlights:** JWT authentication, threaded replies, responsive design, Docker deployment
 
-#### [Eco-Friendly Activity Tracker](https://github.com/yourusername/eco-tracker)
+#### [Eco-Friendly Activity Tracker](https://github.com/SamarthSRao/eco-quest)
 Full-stack application encouraging sustainable living through gamification
 - **Tech:** Node.js, Express, MongoDB, React, Tailwind CSS
 - **Features:** Activity tracking, points system, leaderboards, milestone achievements
