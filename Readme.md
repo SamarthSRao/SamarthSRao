@@ -1,48 +1,53 @@
-# Hi there, I'm Samarth S 
+# Hi there, I'm Samarth S
 
-##  Backend Developer | Building Impactful Applications
+## Backend Developer | Building Impactful Applications
 
 I'm a passionate developer focused on creating production-ready applications with clean architecture and modern tech stacks. I enjoy building scalable web applications that solve real-world problems.
 
 ---
 
-###  About Me
+### About Me
 
--  I'm currently working on **full-stack web applications** with Go, React, and Node.js
--  I'm currently learning **DevOps, Docker, Kubernetes, and Cloud Architecture**
--  Ask me about **React, Go, Node.js, MongoDB, PostgreSQL, RESTful APIs, JWT Authentication**
--  How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
--  Location: **Bengaluru, Karnataka, India**
--  Portfolio: **[yourwebsite.com](https://yourwebsite.com)** (optional)
+- I'm currently working on **full-stack web applications** with Go, React, and Node.js
+- I'm currently learning **DevOps, Docker, Kubernetes, and Cloud Architecture**
+- Ask me about **React, Go, Node.js, MongoDB, PostgreSQL, RESTful APIs, JWT Authentication**
+- How to reach me: **Samarthz0901@gmail.com**
+- Location: **Bengaluru, Karnataka, India**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:**
-```
-React | JavaScript | TypeScript | Tailwind CSS | Vite | HTML5 | CSS3
-```
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend:**
-```
-Go | Node.js | Express.js | RESTful APIs | JWT | bcrypt
-```
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **Databases:**
-```
-PostgreSQL | MongoDB | Mongoose
-```
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Tools:**
-```
-Docker | Docker Compose | Git | GitHub | Linux | Postman
-```
 
-**Other:**
-```
-Webpack | Babel | Axios | Gin Framework | Lucide React | React Router
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -62,7 +67,7 @@ Full-stack application encouraging sustainable living through gamification
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
@@ -70,17 +75,17 @@ Full-stack application encouraging sustainable living through gamification
 
 ---
 
-###  Recent Activity
+### 🔥 Recent Activity
 
--  Building production-ready web applications with modern architectures
--  Implementing Docker containerization for seamless deployment
--  Developing secure authentication systems with JWT
--  Creating RESTful APIs with comprehensive error handling
--  Designing responsive UIs with React and Tailwind CSS
+- 🚀 Building production-ready web applications with modern architectures
+- 🐳 Implementing Docker containerization for seamless deployment
+- 🔐 Developing secure authentication systems with JWT
+- 📊 Creating RESTful APIs with comprehensive error handling
+- 🎨 Designing responsive UIs with React and Tailwind CSS
 
 ---
 
-###  What I'm Learning
+### 🎓 What I'm Learning
 
 - Advanced Go patterns and concurrency
 - Cloud platforms (AWS/GCP/Azure)
@@ -90,24 +95,24 @@ Full-stack application encouraging sustainable living through gamification
 
 ---
 
-###  Connect With Me
+### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://x.com/SammyBo65288122/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](Samarthz0901@gmail.com)
----
-
-###  Fun Facts
-
--  Passionate about building applications that are scalable
--  Love solving complex problems with elegant solutions
--  Always exploring new technologies and best practices
--  Coffee-driven developer
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SammyBo65288122/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samarthz0901@gmail.com)
 
 ---
 
-###  Open to Opportunities
+### ⚡ Fun Facts
+
+- 🌍 Passionate about building applications that are scalable
+- 🎯 Love solving complex problems with elegant solutions
+- 📚 Always exploring new technologies and best practices
+- ☕ Coffee-driven developer
+
+---
+
+### 💼 Open to Opportunities
 
 I'm open to collaborating on interesting projects and exploring new opportunities. Feel free to reach out!
 
