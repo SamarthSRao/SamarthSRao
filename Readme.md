@@ -1,4 +1,4 @@
-# Hi there, I'm [Samarth S] 👋
+# Hi there, I'm Samarth S 
 
 ##  Backend Developer | Building Impactful Applications
 
