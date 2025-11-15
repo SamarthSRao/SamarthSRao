@@ -129,5 +129,5 @@ I'm open to collaborating on interesting projects and exploring new opportunitie
 </p>
 
 <p align="center">
-  From <a href="https://github.com/yourusername">yourusername</a>
+  From <a href="https://github.com/SamarthSRao">Samarth S Rao</a>
 </p>
