@@ -1,131 +1,128 @@
-# Hi there, I'm Samarth S
+# Hi, I'm Samarth S 👨‍💻
 
-## Backend Developer | Building Impactful Applications
+Backend Developer | Full-Stack Engineer | Building Scalable Systems
 
-I'm a passionate developer focused on creating production-ready applications with clean architecture and modern tech stacks. I enjoy building scalable web applications that solve real-world problems.
-
----
-
-### About Me
-
-- I'm currently working on **full-stack web applications** with Go, React, and Node.js
-- I'm currently learning **DevOps, Docker, Kubernetes, and Cloud Architecture**
-- Ask me about **React, Go, Node.js, MongoDB, PostgreSQL, RESTful APIs, JWT Authentication**
-- How to reach me: **Samarthz0901@gmail.com**
-- Location: **Bengaluru, Karnataka, India**
+**Email:** Samarthz0901@gmail.com • **[Twitter](https://x.com/SammyBo65288122/)** • **[GitHub](https://github.com/SamarthSRao)**
 
 ---
 
-### Tech Stack
+## 🚀 About Me
 
-**Frontend:**
+I build production-ready web applications with clean architecture and modern tech stacks that actually scale.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Currently based in **Bengaluru**, I focus on creating distributed systems, RESTful APIs, and cloud-native applications using **Go, Node.js, React**, and **Docker**. I'm passionate about backend architecture, authentication systems, and deploying applications that don't fall over under load.
 
-**Backend:**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Databases:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Message Queue:**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-**DevOps & Tools:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**What drives me:**
+- High-performance backend services
+- Clean API design & REST principles
+- Secure authentication (JWT, OAuth2)
+- Event-driven architectures
+- Containerization & cloud deployment
+- Building systems that solve real problems
 
 ---
 
-### Featured Projects
+## 🧠 Tech Stack
 
-#### [HN-Style Tech Blog](https://github.com/SamarthSRao/news-)
-A production-ready tech blog platform inspired by Hacker News
-- **Tech:** Go, Gin, PostgreSQL, React, Tailwind CSS, Docker
-- **Features:** User authentication, nested comments, voting system, karma tracking
-- **Highlights:** JWT authentication, threaded replies, responsive design, Docker deployment
+**Languages**  
+`Go` • `JavaScript/TypeScript` • `Java` • `C++`
 
-#### [Eco-Friendly Activity Tracker](https://github.com/SamarthSRao/eco-quest)
-Full-stack application encouraging sustainable living through gamification
-- **Tech:** Node.js, Express, MongoDB, React, Tailwind CSS
-- **Features:** Activity tracking, points system, leaderboards, milestone achievements
-- **Highlights:** 7 activity types, weather integration, comprehensive analytics dashboard
+**Backend & Architecture**  
+`RESTful APIs` • `Microservices` • `JWT Authentication` • `gRPC` • `Event-Driven Design`
 
----
+**Frontend**  
+`React` • `Tailwind CSS` • `HTML5/CSS3` • `Responsive Design`
 
-### GitHub Stats
+**Databases & Messaging**  
+`PostgreSQL` • `MongoDB` • `Redis` • `Apache Kafka`
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+**DevOps & Cloud**  
+`Docker` • `Kubernetes (Learning)` • `Linux/Shell Scripting` • `Git/GitHub` • `CI/CD Pipelines`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+**Tools**  
+`Postman` • `Git` • `Docker Compose` • `Nginx`
 
 ---
 
-### Recent Activity
+## 🔧 Featured Projects
 
-- Building production-ready web applications with modern architectures
-- Implementing Docker containerization for seamless deployment
-- Developing secure authentication systems with JWT
-- Creating RESTful APIs with comprehensive error handling
-- Designing responsive UIs with React and Tailwind CSS
+### ⚡ [HN-Style Tech Blog](https://github.com/SamarthSRao/news-)
+**Production-ready tech discussion platform inspired by Hacker News**
 
----
+- **Stack:** Go, Gin Framework, PostgreSQL, React, Tailwind CSS, Docker
+- **Features:** User authentication, nested threaded comments, voting system, karma tracking
+- **Highlights:**
+  - JWT-based authentication with secure token refresh
+  - Nested comment threads with efficient querying
+  - Dockerized deployment with multi-stage builds
+  - Responsive UI with modern design patterns
 
-### What I'm Learning
+### 🌱 [Eco-Quest — Activity Tracker](https://github.com/SamarthSRao/eco-quest)
+**Full-stack gamification platform for sustainable living**
 
-- Advanced Go patterns and concurrency
-- Cloud platforms (AWS/GCP/Azure)
-- CI/CD pipelines and automation
-- Microservices architecture
-- System design and scalability
-
----
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SammyBo65288122/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samarthz0901@gmail.com)
+- **Stack:** Node.js, Express, MongoDB, React, Tailwind CSS
+- **Features:** Activity tracking, points & rewards system, leaderboards, milestone achievements
+- **Highlights:**
+  - 7+ eco-friendly activity types
+  - Real-time weather API integration
+  - Comprehensive analytics dashboard
+  - RESTful API with error handling
 
 ---
 
-### Fun Facts
+## 🎯 What I'm Learning
 
-- Passionate about building applications that are scalable
-- Love solving complex problems with elegant solutions
-- Always exploring new technologies and best practices
-- Coffee-driven developer
-
----
-
-### Open to Opportunities
-
-I'm open to collaborating on interesting projects and exploring new opportunities. Feel free to reach out!
+- **Advanced Go:** Concurrency patterns, goroutines, channels
+- **Cloud Platforms:** AWS/GCP/Azure deployment strategies
+- **Kubernetes:** Container orchestration & scaling
+- **System Design:** Distributed systems, load balancing, caching strategies
+- **CI/CD:** GitHub Actions, automated testing & deployment pipelines
 
 ---
 
+## 🧩 Current Focus
 
+- Building event-driven microservices with Kafka
+- Implementing advanced authentication flows (OAuth2, refresh tokens)
+- Exploring cloud-native patterns (service mesh, observability)
+- Contributing to open-source projects
+- Writing technical blogs about backend architecture
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthSRao&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSRao&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 💬 Interests
+
+- System Design & Architecture 🏗️
+- Open Source Contributions 🌐
+- DevOps & Cloud Technologies ☁️
+- Problem Solving & Algorithms 🧩
+- Coffee & Code ☕
+
+---
+
+## 🤝 Let's Connect
+
+Building something interesting? Working on scalable backend systems? Want to discuss tech, architecture, or collaborate on a project?
+
+**Reach out:**
+- 📧 Email: Samarthz0901@gmail.com
+- 🐦 Twitter: [@SammyBo65288122](https://x.com/SammyBo65288122/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/yourprofile)
+
+---
 
 <p align="center">
-  From <a href="https://github.com/SamarthSRao">Samarth S Rao</a>
+  <i>Always learning. Always building. Always shipping.</i>
+</p>
+
+<p align="center">
+  From <a href="https://github.com/SamarthSRao">Samarth S Rao</a> • Bengaluru, India 🇮🇳
 </p>
