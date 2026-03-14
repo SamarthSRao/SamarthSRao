@@ -1,12 +1,12 @@
 # Hi, I'm Samarth S 👨‍💻
 
-Backend Developer | Full-Stack Engineer | Building Scalable Systems
+Backend Developer |  Engineer | Building Systems
 
 **Email:** Samarthz0901@gmail.com • **[Twitter](https://x.com/SammyBo65288122/)** • **[GitHub](https://github.com/SamarthSRao)**
 
 ---
 
-## 🚀 About Me
+About Me
 
 I build production-ready web applications with clean architecture and modern tech stacks that actually scale.
 
@@ -22,7 +22,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ---
 
-## 🧠 Tech Stack
+##Tech Stack
 
 **Languages**  
 `Go` • `JavaScript/TypeScript` • `Java` • `C++`
@@ -46,7 +46,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ## 🔧 Featured Projects
 
-### ⚡ [HN-Style Tech Blog](https://github.com/SamarthSRao/news-)
+###  [HN-Style Tech Blog](https://github.com/SamarthSRao/news-)
 **Production-ready tech discussion platform inspired by Hacker News**
 
 - **Stack:** Go, Gin Framework, PostgreSQL, React, Tailwind CSS, Docker
@@ -57,7 +57,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
   - Dockerized deployment with multi-stage builds
   - Responsive UI with modern design patterns
 
-### 🌱 [Eco-Quest — Activity Tracker](https://github.com/SamarthSRao/eco-quest)
+###  [Eco-Quest — Activity Tracker](https://github.com/SamarthSRao/eco-quest)
 **Full-stack gamification platform for sustainable living**
 
 - **Stack:** Node.js, Express, MongoDB, React, Tailwind CSS
@@ -70,7 +70,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ---
 
-## 🎯 What I'm Learning
+##  What I'm Learning
 
 - **Advanced Go:** Concurrency patterns, goroutines, channels
 - **Cloud Platforms:** AWS/GCP/Azure deployment strategies
@@ -80,7 +80,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ---
 
-## 🧩 Current Focus
+## Current Focus
 
 - Building event-driven microservices with Kafka
 - Implementing advanced authentication flows (OAuth2, refresh tokens)
@@ -90,7 +90,7 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarthSRao&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
@@ -98,24 +98,24 @@ Currently based in **Bengaluru**, I focus on creating distributed systems, RESTf
 
 ---
 
-## 💬 Interests
+##  Interests
 
-- System Design & Architecture 🏗️
-- Open Source Contributions 🌐
-- DevOps & Cloud Technologies ☁️
-- Problem Solving & Algorithms 🧩
-- Coffee & Code ☕
+- System Design & Architecture 
+- Open Source Contributions 
+- DevOps & Cloud Technologies 
+- Problem Solving & Algorithms 
+- Coffee & Code 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Building something interesting? Working on scalable backend systems? Want to discuss tech, architecture, or collaborate on a project?
 
 **Reach out:**
-- 📧 Email: Samarthz0901@gmail.com
-- 🐦 Twitter: [@SammyBo65288122](https://x.com/SammyBo65288122/)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/yourprofile)
+-  Email: Samarthz0901@gmail.com
+-  Twitter: [@SammyBo65288122](https://x.com/SammyBo65288122/)
+-  LinkedIn: [Connect with me(https://www.linkedin.com/in/yourprofile)
 
 ---
 
@@ -124,5 +124,6 @@ Building something interesting? Working on scalable backend systems? Want to dis
 </p>
 
 <p align="center">
-  From <a href="https://github.com/SamarthSRao">Samarth S Rao</a> • Bengaluru, India 🇮🇳
+  From <a href="https://github.com/SamarthSRao">Samarth S Rao</a> • Bengaluru, India 
+
 </p>
